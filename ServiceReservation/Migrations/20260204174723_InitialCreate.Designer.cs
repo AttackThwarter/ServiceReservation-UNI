@@ -11,7 +11,7 @@ using ServiceReservation.Data;
 namespace ServiceReservation.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20260204170218_InitialCreate")]
+    [Migration("20260204174723_InitialCreate")]
     partial class InitialCreate
     {
         /// <inheritdoc />
